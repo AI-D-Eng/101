@@ -1,0 +1,15 @@
+site_name: D-ENG AWESOME
+nav:
+    - Home: index.md
+    - MLOps: mlops.md
+    - Awesome: awesome.md
+    - FirstTime: first_time.md
+    - DeepLearing: dl.md
+    - Label: label.md
+    - Python: python.md
+    - Talks: talks.md
+    - Windows: window.md
+    - MachineLearing: machinelearning.md
+    - VIZ: dataviz.md
+    - DataScience: datascience.md
+    - Javascript: javascript.md
